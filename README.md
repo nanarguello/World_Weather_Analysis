@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+The purpose of this project was to retrieve data from Open Weather and Google Maps to create the "PlanMyTrip" app. This app will allow customers to search for potential travel destinations and nearby hotels based on their temperature preferences. From these potential travel destinations, the app will create a travel route using the Google Maps Directions API and a marker layer map. 
